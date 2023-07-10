@@ -1,5 +1,5 @@
 {
-  "homepage": "https://atheshwaran-10.github.io/Weather-App-Stable-version",
+  "homepage": "Weather-App-Stable-version/build/index.html",
   "name": "weather",
   "version": "0.1.0",
   "private": true,
