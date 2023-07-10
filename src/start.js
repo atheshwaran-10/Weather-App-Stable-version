@@ -23,7 +23,6 @@ function Start()
         setForecast(assignedForecast);
       }
     };
-
     fetchWeatherData();
   }, [location]);
 
